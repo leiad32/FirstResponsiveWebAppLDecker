@@ -9,7 +9,7 @@ using System.Web;
 using FirstResponsiveWebAppDecker.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MovieUnitTests
+namespace UnitTests
 {
     public class UnitTest1
     {
